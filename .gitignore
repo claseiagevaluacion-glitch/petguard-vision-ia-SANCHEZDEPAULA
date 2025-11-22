@@ -1,0 +1,25 @@
+# Byte-compiled / caches
+__pycache__/
+*.pyc
+
+# Environments
+env/
+venv/
+.venv/
+.conda/
+.ipynb_checkpoints/
+
+# Data & models (no subir modelos pesados ni datos)
+*.pt
+*.pth
+models/
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.spyderproject
+.spyproject/
